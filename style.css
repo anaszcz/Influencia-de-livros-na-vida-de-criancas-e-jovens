@@ -1,0 +1,26 @@
+.cabeçalho{
+    width: 1125px;
+}
+
+.foto{
+    width: 40%;
+    margin-left: 28%;
+    text-align: center;
+
+
+}
+
+body{
+background-color: #fedace;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{
+    color: black;
+}
